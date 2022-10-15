@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -10,12 +10,12 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="github-link"
+          href="www.github.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Let's Deploy
         </a>
       </header>
     </div>
